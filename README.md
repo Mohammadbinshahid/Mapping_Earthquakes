@@ -6,7 +6,7 @@ The purpose of this project is to visually show the differences between the magn
 ## Summary
 We used JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. We used the Leaflet library to plot the data on a Mapbox map through an API request and created interactive interface for the earthquake data.
 
-The earthquake data is represented on the maps in relation to the tectonic plates’ location on the earth, and according to each event's magnitude.
+The earthquake data is represented on the maps in relation to the tectonic plates location on the earth, and according to each event's magnitude.
 
 ## Interactive maps created are shown below for Street, Satelite and Dark view mode
 
